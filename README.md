@@ -4,11 +4,13 @@ A modern, responsive developer portfolio built using **HTML5** and **CSS3**. Thi
 
 ## 🌐 Live Preview
 
-> Add your deployed portfolio link here
+🚀 **View the live portfolio here:**
 
-```
-[https://your-portfolio-link.com](https://prashantt05.github.io/synent-task1-Personal-Portfolio-Website-prashant/)
-```
+**🔗 https://prashantt05.github.io/synent-task1-Personal-Portfolio-Website-prashant/**
+
+Or click below:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Portfolio-6366F1?style=for-the-badge&logo=github)](https://prashantt05.github.io/synent-task1-Personal-Portfolio-Website-prashant/)
 
 ---
 
