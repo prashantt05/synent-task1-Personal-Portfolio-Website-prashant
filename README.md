@@ -7,7 +7,7 @@ A modern, responsive developer portfolio built using **HTML5** and **CSS3**. Thi
 > Add your deployed portfolio link here
 
 ```
-https://your-portfolio-link.com
+[https://your-portfolio-link.com](https://prashantt05.github.io/synent-task1-Personal-Portfolio-Website-prashant/)
 ```
 
 ---
