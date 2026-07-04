@@ -181,7 +181,7 @@ prashantt9405@gmail.com
 **LinkedIn**
 
 ```
-linkedin.com/in/prashant-rajput
+https://www.linkedin.com/in/prashant-rajput-838291329/
 ```
 
 **GitHub**
